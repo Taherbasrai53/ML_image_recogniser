@@ -1,1 +1,2 @@
 # ML_image_recogniser
+This is an ML based deep learning nuero network software. That takes image data sets(mnist) as input and labels them according to a given confidence level. The nuero network has two layers the primary layer having 32 node units and the final layer having 10 nodes corresponding to each label category. It has had 11 epochs, each increasing the accuracy of the nueral network and decreasing the data loss.
